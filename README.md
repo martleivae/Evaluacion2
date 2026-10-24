@@ -15,5 +15,5 @@ El script `script_geoloc.py` permite al usuario ingresar una ciudad de origen y 
 ## Instrucciones de Ejecución
 1. Clonar el repositorio:
    ```bash
-   git clone [https://github.com/martleivae/Evaluacion2.git](https://github.com/martleivae/Evaluacion2.git)
+   git clone https://github.com/martleivae/Evaluacion2.git
    cd Evaluacion2
